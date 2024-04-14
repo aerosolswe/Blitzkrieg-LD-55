@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a536685c40691ea4196c471f2d98c9ba, type: 3}
+  m_Name: AlliedParatrooperInfo
+  m_EditorClassIdentifier: 
+  faction: 0
+  cursorPrefab: {fileID: -4463690572132962423, guid: 131c1d536b0b1cf4c9ca0d93559e374a, type: 3}
+  spawnPrefab: {fileID: 8052993431298550140, guid: e24a4029089e3b445ac4a641b4f35fde, type: 3}
+  id: allied_paratrooper
+  cost: 35
+  creditsReward: 0
+  cooldown: 0.2
+  health: 60
+  damage: 20
+  firerate: 0.2
+  range: 3
+  aoe: 0
+  maxX: 30
+  speed: 2
+  turnSpeed: 5
+  attackDelay: 0.4
+  corpseID: corpse_allied_soldier
