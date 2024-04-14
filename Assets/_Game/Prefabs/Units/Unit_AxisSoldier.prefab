@@ -16,6 +16,10 @@ PrefabInstance:
       propertyPath: faction
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1177712910168329302, guid: 0199d8b9297d13245a7243a938187891, type: 3}
+      propertyPath: targetMask.m_Bits
+      value: 192
+      objectReference: {fileID: 0}
     - target: {fileID: 6854525417900504413, guid: 0199d8b9297d13245a7243a938187891, type: 3}
       propertyPath: m_Sprite
       value: 

@@ -144,7 +144,7 @@ MonoBehaviour:
   animHitName: 
   checkForTargetTime: 1
   spriteArray:
-  - {fileID: 21300000, guid: 8dfc9cb0bccf4854c92bb4ec56c6238b, type: 3}
+  - {fileID: 21300000, guid: 83176f6724d4dd8498f0380dafb501fc, type: 3}
   spriteRenderer: {fileID: 7495269282455873064}
   animDecayName: Anim_dead_soldier_decay
   decayTime: 20

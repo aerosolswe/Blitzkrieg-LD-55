@@ -173,6 +173,11 @@ public class Unit : MonoBehaviour
             {
                 var unit = collider.GetComponent<Unit>();
 
+                if (unit == null)
+                {
+                    unit = collider.GetComponentInParent<Unit>();
+                }
+
                 if (unit != null && unit != this && unit.info.faction != info.faction && unit.CurrentState != State.Dead)
                 {
                     Target = unit;

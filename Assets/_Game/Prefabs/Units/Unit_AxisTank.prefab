@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: info
       value: 
       objectReference: {fileID: 11400000, guid: 420422d0286cf6b49b61bfa1ea20db47, type: 2}
+    - target: {fileID: 1177712910168329302, guid: 3b236084dc6f23342aa2315158283dd2, type: 3}
+      propertyPath: targetMask.m_Bits
+      value: 192
+      objectReference: {fileID: 0}
     - target: {fileID: 5902982759716681673, guid: 3b236084dc6f23342aa2315158283dd2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
